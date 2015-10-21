@@ -1,0 +1,15 @@
+Reading ./sample_trace.input
+File loaded.
+Requests parsed (100).
+Cache config:
+set: 8192, way: 8
+Bank Access: 
+80 10 3 7 
+cache_hits:	              65
+cache_misses:	              35
+total_read:	              99
+total_write:	               0
+total_other:	               1
+dirty_blocks:	               0
+dirty_evicts:	               0
+access_latency:	           50500 (tick)
