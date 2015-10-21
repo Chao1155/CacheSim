@@ -18,34 +18,13 @@ This README would introduce all necessary informations you need to know about th
 
 + Pay attention to the .hgignore file. This file contains a ignore list in which files will not be commited to this central repo. Do add unwanted files into it and list them here for others benefits.
 
-*Release
-*Debug
-*Test
-*.project
-*.cproject
-*src/cacheSim
+* Release
+* Debug
+* Test
+* .project
+* .cproject
+* cacheSim
+* inputs
+* results
 
 
-### Where can I get help? ###
-
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
